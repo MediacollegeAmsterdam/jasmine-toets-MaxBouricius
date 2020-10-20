@@ -1,5 +1,5 @@
 function Verbeteringen() {
-    this.item = 'item';
+    this.item = 'voorbeeld';
     this.nummer = 2;
     this.unit = 'Unit test';
     this.beschrijving = 'Beschrijving';
