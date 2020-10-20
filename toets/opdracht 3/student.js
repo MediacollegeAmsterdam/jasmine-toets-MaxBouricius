@@ -9,9 +9,7 @@ private function Student(naam, studentId) {
 
 }
 
-let student = new Student('myName', '0001');
+private let student = new Student('myName', '0001');
 
 // Hier moet je de variabele klas een waarde geven bijvoorbeeld MD2
-console.log(
-    /* Hier moet de variabele klas getoond worden */
-)
+console.log(klas)
