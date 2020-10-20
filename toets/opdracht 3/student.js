@@ -1,4 +1,4 @@
-function Student(naam, studentId) {
+private function Student(naam, studentId) {
 
     let obj = this;
     this.name = naam + 'Hi';
